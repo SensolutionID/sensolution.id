@@ -1,12 +1,12 @@
-baseurl = "https://example.org"
-title = "Universal"
+baseurl = "https://sensehub.netlify.com"
+title = "SenseHub"
 theme = "hugo-universal-theme"
-themesDir = "themes"
+themesDir = "./themes"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+disqusShortname = "aswansyahputra"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
@@ -74,7 +74,7 @@ paginate = 10
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "default"
+    style = "light-blue"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -92,7 +92,7 @@ paginate = 10
     email = "your@email.com"
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    copyright = "Copyright (c) 2018, SenseHub; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
