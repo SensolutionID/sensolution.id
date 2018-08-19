@@ -85,7 +85,7 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/logo_sensolution.png"
+    logo = "img/logo.png"
     address = """<p><strong>Sensolution</strong>
         <br>Kota Cimahi
         <br>Jawa Barat
