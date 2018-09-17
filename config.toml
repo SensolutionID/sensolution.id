@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Sensolution"
+title = "Sensolution.ID"
 theme = "hugo-universal-theme-master"
 themesDir = "./themes"
 languageCode = "en-us"
@@ -77,16 +77,16 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "info@sensolution.id"
 
-    about_us = "<p>Sensolution merupakan penyedia aplikasi dan konsultan untuk ilmu sensoris pangan.</p>"
-    copyright = "Copyright (c) 2018, Sensolution; hak cipta dilindungi."
+    about_us = "<p>Sensolution.ID merupakan penyedia aplikasi dan konsultan untuk ilmu sensoris pangan.</p>"
+    copyright = "Copyright (c) 2018, Sensolution.ID; hak cipta dilindungi."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Sensolution</strong>
+    address = """<p><strong>Sensolution.ID</strong>
         <br>Kota Cimahi
         <br>Jawa Barat
         <br>
