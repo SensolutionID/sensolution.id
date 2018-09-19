@@ -1,8 +1,8 @@
 +++
-title = "Contact"
+title = "Hubungi Kami"
 id = "contact"
 +++
 
-# We are here to help you
+# Kami ada untuk membantu Anda
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+Silakan menghubungi kami jika Anda tertarik untuk melakukan kerjasama atau apabila ada hal-hal yang ingin disampaikan.
