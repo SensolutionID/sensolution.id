@@ -24,6 +24,7 @@ Seperti disinggung pada bagian sebelumnya, R dirancang khusus untuk tujuan anali
 
 ### Cara memasang paket di R
 
+Berikut merupakan cara untuk memasang paket-paket yang telah disebutkan sebelumnya pada R.
 ```r
 install.packages("crossdes")
 install.packages("sensR")
