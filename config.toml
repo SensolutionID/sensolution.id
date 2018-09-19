@@ -138,7 +138,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Testimoni"
-    subtitle = "Banyak klien dan mereka mendapatkan kepuasan atas kerjasama serta produk yang kami tawarkan."
+    subtitle = "Kepuasan Anda merupakan kebanggan bagi kami. Apa kata mereka tentang produk dan jasa yang kami tawarkan?"
 
 [params.see_more]
     enable = true
@@ -154,9 +154,9 @@ paginate = 10
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
     title = "Klien"
-    subtitle = ""
+    subtitle = "Mereka yang telah menggunakan produk, jasa, dan berkerjasama dengan Sensolution.ID"
 
 [params.recent_posts]
     enable = true
-    title = "Tulisan"
+    title = "Blog"
     subtitle = ""
