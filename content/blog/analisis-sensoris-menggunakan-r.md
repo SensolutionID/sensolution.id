@@ -1,6 +1,6 @@
 +++
 title = "Analisis Sensoris Menggunakan R (Bagian 1)"
-date = "2018-09-19T07:40:14+07:00"
+date = "2018-09-19T11:36:00+07:00"
 tags = ["sensoris", "analisis", "metode", "R"]
 categories = ["tutorial"]
 banner = "img/banners/work.jpeg"

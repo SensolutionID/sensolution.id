@@ -144,8 +144,8 @@ paginate = 10
     icon = "fa fa-line-chart"
     title = "SenseHub"
     subtitle = "SenseHub: Aplikasi Web Terintegrasi untuk Analisis Sensoris"
-    link_url = "https://sensehub.sensolution.id"
-    link_text = "Klik disini untuk SenseHub Basic"
+    link_url = "https://sid.sensehub_basic"
+    link_text = "Klik disini untuk menggunakan SenseHub Basic"
 
 [params.clients]
     enable = true
