@@ -2,7 +2,7 @@
 title = "Aplikasi Boris Untuk Pengamatan Proses Oral"
 date = "2018-09-19T11:27:13+07:00"
 tags = ["proses oral", "boris"]
-categories = ["tips", "metode"]
+categories = ["tutorial"]
 banner = "img/banners/eat.jpeg"
 +++
 
