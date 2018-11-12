@@ -312,7 +312,7 @@ ul.list-style-none {
   border-top: solid 5px transparent;
 }
 .navbar ul.nav > li > a:hover {
-  border-top: solid 5px #2c89a0;
+  border-top: solid 5px #37c871;
 }
 .navbar ul.nav > li.active > a,
 .navbar ul.nav > li.open > a {
@@ -329,7 +329,7 @@ ul.list-style-none {
   }
 }
 .navbar.navbar-light ul.nav > li.active > a {
-  border-top: solid 5px #294d76;
+  border-top: solid 5px #37c871;
   background: #fff !important;
   color: #555555 !important;
 }
@@ -589,9 +589,9 @@ fieldset[disabled] .btn-template-main.active {
 .btn-template-main:focus,
 .btn-template-main:active,
 .btn-template-main.active {
-  background: #2c89a0;
+  background: #37c871;
   color: #ffffff;
-  border-color: #2c89a0;
+  border-color: #37c871;
 }
 .btn-template-transparent-primary {
   color: #ffffff;
@@ -1143,7 +1143,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel {
   position: relative;
-  background: url('../img/photogrid.jpg') center center repeat;
+  background: url('../img/photogrid.jpeg') center bottom repeat;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
