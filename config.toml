@@ -32,11 +32,11 @@ paginate = 10
     url  = "/blog/"
     weight = 3
 
-#[[menu.main]]
-#    name = "FAQ"
-#    identifier = "faq"
-#    url  = "/faq/"
-#    weight = 3
+[[menu.main]]
+    name = "Tim Kami"
+    identifier = "faq"
+    url  = "/tim/"
+    weight = 3
 
 [[menu.main]]
     name = "Hubungi Kami"
@@ -84,7 +84,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "info@sensolution.id"
 
-    about_us = "<p>Sensolution.ID merupakan konsultan ilmu sensoris dan penyedia perangkat lunak untuk analisis data sensoris.</p>"
+    about_us = "<p>Sensolution.ID merupakan lembaga konsultan citarasa pangan dan analis sensometrik.</p>"
     copyright = "Copyright (c) 2018, Sensolution.ID; hak cipta dilindungi."
 
     # Format dates with Go's time formatting
