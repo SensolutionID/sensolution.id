@@ -22,7 +22,7 @@ keywords = ["tim"]
 
 ---
 
-### Leonie Margaretha Widya Pangestika, STP, MP
+### Leonie Margaretha Widya Pangestika, STP, MSi
 <img style="float: right;" src="/img/widya.jpeg">
 
 - **Pendidikan:**
