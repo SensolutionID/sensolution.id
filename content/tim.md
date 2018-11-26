@@ -37,7 +37,7 @@ keywords = ["tim"]
 
 ---
 
-### Petronelia Yunia Dua Reri, STP, MSi
+### Petronela Yunia Dua Reri, STP, MSi
 <img style="float: right;" src="/img/ririn.jpeg">
 
 - **Pendidikan:**
