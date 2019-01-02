@@ -6,12 +6,12 @@ description2 :
 aboutItem : 
   - icon : tf-ion-android-bulb
     title : Food Science and Technology
-    content :
+    content : Study on ingredients, food processing, new-product development, etc.
     
   - icon : tf-ion-android-bulb
     title : Nutrition & Health
-    content :
+    content : Study on oral processing, food intake, human senses, etc.
 
   - icon : tf-ion-android-bulb
     title : Marketing and Consumer Behaviour
-    content :
+    content : Study on consumer perception, expectation, marketing strategy, etc.

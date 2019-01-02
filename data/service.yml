@@ -16,8 +16,7 @@ serviceItem :
     
   - icon : tf-dial
     title : Data exploration and analysis
-    content : We can help you to clean, explore, analyse, and visualise data that have been deliberately or indeliberately collected. You can also request for an application specially built for it
-    
+    content : We can help you to clean, explore, analyse, and visualise data that have been deliberately or indeliberately collected.
   - icon : tf-target3
     title : Panel training
     content : We provide our expertise in panel selection, training, monitoring, and management to aid you to create your own internal expert panel
