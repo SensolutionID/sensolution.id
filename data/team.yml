@@ -1,0 +1,36 @@
+enable : true
+heading : Our
+headingSpan : Team
+teamMember :
+  - image : images/team/aswan.jpeg
+    name : Muhammad Aswan Syahputra, STP, MSc
+    designation : CEO/Founder, Sensory scientist
+    description : Expertise in sensometrics, rapid sensory profiling, data analysis & visualisation, and R programming. Master in Sensory Science from Wageningen University and Research, The Netherlands and bachelor in Food Science and Technology from Universitas Brawijaya, Indonesia.
+    socialIcon :
+      - icon : tf-ion-android-mail
+        url : "mailto:aswansyahputra@sensolution.id"
+      - icon : tf-ion-social-linkedin
+        url : "https://id.linkedin.com/in/aswansyahputra"
+      - icon : tf-globe
+        url : "https://aswansyahputra.com"
+      
+  - image : images/team/wiwid.jpeg
+    name : Leonie Margaretha Widya Pangestika, STP, MSi
+    designation : Sensory scientist
+    description : Expertise in sensory profiling, panel training, soybean fermentation, also flavour and ingredients. Master in Food Science from Bogor Agricultural University, Indonesia and bachelor in Food Science and Technology from Universitas Brawijaya, Indonesia.
+    socialIcon :
+      - icon : tf-ion-android-mail
+        url : "mailto:leoniemargaretha@sensolution.id"
+      - icon : tf-ion-social-linkedin
+        url : "https://www.linkedin.com/in/leonie-margaretha-widya-pangestika-3262a812a/"
+      
+  - image : images/team/ririn.jpeg
+    name : Petronela Yunia Dua Reri, STP, MSi
+    designation : Sensory scientist
+    description : Expertise in sensory profiling, panel training, and aroma characterization. Master in Food Science from Bogor Agricultural University, Indonesia and bachelor in Food Science and Technology from Universitas Brawijaya, Indonesia.
+    socialIcon :
+      - icon : tf-ion-android-mail
+        url : "mailto:petronelareri@sensolution.id"
+      - icon : tf-ion-social-linkedin
+        url : "https://www.linkedin.com/in/petronela-yunia-dua-reri-b193b2175/"
+      

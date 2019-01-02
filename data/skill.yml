@@ -1,0 +1,26 @@
+enable : true
+heading : Our
+headingSpan : Skills
+title : We’ve skilled in wide range of conventional and advance sensory methodology, as well as state-of-art sensory analyses approaches.
+content : 
+image : images/about/foods.png
+skillItem :
+  - itemNumber : 01-
+    itemName :  Rapid sensory profiling
+    itemPercent : 90%
+    
+  - itemNumber : 02-
+    itemName :  Panel management and training
+    itemPercent : 85%
+    
+  - itemNumber : 03-
+    itemName :  Product optimisation
+    itemPercent : 80%
+    
+  - itemNumber : 04-
+    itemName :  Consumer perception study
+    itemPercent : 75%
+    
+  - itemNumber : 05-
+    itemName :  Sensory software
+    itemPercent : 90%

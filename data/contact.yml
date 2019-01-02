@@ -1,0 +1,15 @@
+enable : true
+heading : Get In
+headingSpan : Touch
+title : Contact Details
+content : 
+enable_maps : false
+mapLatitude : 51.5223477
+mapLongitude: -0.1622023
+contactDetails :
+  - icon : tf-map-pin
+    info : "Agung Lestari Residence No. B13, Ngamprah, Kab. Bandung Barat"
+    
+  - icon : tf-ion-ios-email-outline
+    info : "Email: info@sensolution.id"
+    

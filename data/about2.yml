@@ -1,0 +1,13 @@
+enable : true
+image : images/about/sensory.png
+title : We Are Sensory Professionals.
+description : Our team is fueled by energic, young, and experienced sensory scientists. We emerged from the same root, Food Science and Technology, but bloomed in various sensory expertise such as in advance sensory methods, panel training & management, product optimization, flavour & ingredients, aroma characterization, sensometrics, and data analysis.
+description2 : Closely working with academic ensures us with the flow of most updated information about sensory science and consumer studies. We love sensory science and eager to share our knowledge to benefit your company and institution. 
+aboutItem : 
+  - icon : tf-strategy
+    title : We're Visonary
+    content : We believe that there is always more to offer, to you and to your consumers.
+    
+  - icon : tf-anchor2
+    title : We're Genius
+    content : We plan the best strategy in efficient manner to solve every problems.
