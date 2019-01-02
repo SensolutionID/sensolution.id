@@ -16,9 +16,9 @@ theme = "meghna-hugo"
     weight = 3
 
     [[menu.nav]]
-    name = "Portfolio"
-    URL = "portfolio"
-    weight = 4
+#    name = "Portfolio"
+#    URL = "portfolio"
+#    weight = 4
 
     [[menu.nav]]
     name = "Team"
@@ -26,14 +26,14 @@ theme = "meghna-hugo"
     weight = 5
 
     [[menu.nav]]
-    name = "Pricing"
-    URL = "pricing"
-    weight = 6
+#    name = "Pricing"
+#    URL = "pricing"
+#    weight = 6
 
     [[menu.nav]]
-    name = "Blog"
-    URL = "blog"
-    weight = 7
+#    name = "Blog"
+#    URL = "blog"
+#    weight = 7
 
     [[menu.nav]]
     name = "Contact"
