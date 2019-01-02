@@ -4,24 +4,24 @@ headingSpan : Services
 serviceItem :
   - icon : tf-globe
     title : Consultancy
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content : We present assistance to combine your expertise and our specialisation in sensory science & consumer studies in order to unravel and discover golden solution for particular issues
     
   - icon : tf-ion-laptop
     title : Sensory-specific softwares
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content : We build softwares that specifically tailored for sensory and consumer research purposes. Such softwares are 'SenseQuest' (coming soon) for data collection and 'SenseHub' for data analyses
     
   - icon : tf-genius
     title : Food and consumer research
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content : We offer our brain and muscles to design a plan, conduct research, analyse data, and to draw conclusion to help you to answer specific questions regarding your valuable product
     
   - icon : tf-dial
     title : Data exploration and analysis
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content : We can help you to clean, explore, analyse, and visualise data that have been deliberately or indeliberately collected. You can also request for an application specially built for it
     
   - icon : tf-target3
     title : Panel training
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content : We provide our expertise in panel selection, training, monitoring, and management to aid you to create your own internal expert panel
     
   - icon : tf-lifesaver
     title : Workshop and training
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content : We extend our service to share knowledge and practical experience in form of workshop about sensory methodology and sensory data analysis
