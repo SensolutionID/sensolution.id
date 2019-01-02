@@ -63,7 +63,7 @@ custom_css = ["css/custom.css"]
     enable = true
     title = "Expertise in Sensory Science and Consumer Studies"
     content = "Don't you wonder how to maintain, improve, design, and search for an ideal food product? Aren't you curious how your product performs and its positioning in competitive market? Don't you eager to hear your consumers' opinion and how to translate it into bussiness action?"
-    btnURL = "#"
+    btnURL = "#contact-us"
     btnText = "Start a project with us!"
 
     # counter
