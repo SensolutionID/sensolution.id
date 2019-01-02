@@ -9,7 +9,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         {{ .Hugo.Generator }}
 	
-	{{ partials "google/analytics" . }}	
         <title> {{ .Title }} </title>
 		
 		{{"<!-- Favicon -->" |safeHTML}}
@@ -34,6 +33,15 @@
         <link rel="stylesheet" href="{{ . | absURL }}">
         {{ end }}
 
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114665658-3"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-114665658-3');
+	</script>
     </head>
     {{"<!-- body start -->" | safeHTML}}
     <body id="body" data-spy="scroll" data-target=".navbar" data-offset="50"></body>
