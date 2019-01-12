@@ -5,7 +5,7 @@ teamMember :
   - image : images/team/aswan.jpeg
     name : Muhammad Aswan Syahputra, STP, MSc
     designation : CEO/Founder, Sensory scientist
-    description : Expertise in sensometrics, rapid sensory profiling, data analysis & visualisation, and R programming. Master in Sensory Science from Wageningen University and Research, The Netherlands and bachelor in Food Science and Technology from Universitas Brawijaya, Indonesia.
+    description : Expertise in sensometrics, rapid sensory profiling, data analysis, and R programming. Master in Sensory Science from Wageningen University and Research, The Netherlands and bachelor in Food Science and Technology from Universitas Brawijaya, Indonesia.
     socialIcon :
       - icon : tf-ion-android-mail
         url : "mailto:aswansyahputra@sensolution.id"

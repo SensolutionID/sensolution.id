@@ -1,22 +1,22 @@
 enable : true
 bgImage : images/backgrounds/bg-2.jpg
 testimonialItem :
-  - name : Jurusan Teknologi Hasil Pertanian, Universitas Brawijaya
+  - name : Departement of Agricultural Product Technology, Universitas Brawijaya
     image : images/logos/ftp.png
-    date : 
-    content : 
+    date : 2018
+    content : Our client
     
-  - name : Kelompok Kajian Sensoris dan Pangan Terapan, Universitas Brawijaya
+  - name : Sensory and Applied Food Research Group, Universitas Brawijaya
     image : images/logos/bsc.png
-    date : 
-    content : 
+    date : 2018
+    content : Our client
     
-  - name : Departemen Ilmu dan Teknologi Pangan, Institut Pertanian Bogor
+  - name : Departement of Food Science and Technology, Institut Pertanian Bogor
     image : images/logos/ipb.png
-    date : 
-    content : 
+    date : 2018
+    content : Our client
 
   - name : SEAFAST Center, Institut Pertanian Bogor
     image : images/logos/ipb.png
-    date : 
-    content : 
+    date : 2018
+    content : Our client

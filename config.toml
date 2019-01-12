@@ -45,7 +45,12 @@ theme = "meghna-hugo"
 home= "Home"
 logo = "images/logo_inversed.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBI14J_PNWVd-m0gnUBkjmhoQyNyd7nllA"
-custom_css = ["css/custom.css"]
+# Meta data
+# description = "Food Sensory and Sensometrics Consulting"
+# author = "Sensolution.ID"
+# Google Analitycs
+# googleAnalitycsID = "UA-114665658-3"
+# custom_css = ["css/custom.css"]
 
     # Banner Section
     [params.banner]
