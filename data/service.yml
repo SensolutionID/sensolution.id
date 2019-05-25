@@ -2,9 +2,9 @@ enable : true
 heading : Our
 headingSpan : Services
 serviceItem :
-  - icon : tf-globe
-    title : Consultancy
-    content : We present assistance to combine your expertise and our specialisation in sensory science & consumer studies in order to unravel and discover golden solution for particular issues
+#  - icon : tf-globe
+#    title : Consultancy
+#    content : We present assistance to combine your expertise and our specialisation in sensory science & consumer studies in order to unravel and discover golden solution for particular issues
     
   - icon : tf-ion-laptop
     title : Sensory-specific softwares
@@ -14,12 +14,12 @@ serviceItem :
     title : Food and consumer research
     content : We offer our brain and muscles to design a plan, conduct research, analyse data, and to draw conclusion to help you to answer specific questions regarding your valuable product
     
-  - icon : tf-dial
-    title : Data exploration and analysis
-    content : We can help you to clean, explore, analyse, and visualise data that have been deliberately or indeliberately collected.
-  - icon : tf-target3
-    title : Panel training
-    content : We provide our expertise in panel selection, training, monitoring, and management to aid you to create your own internal expert panel
+#  - icon : tf-dial
+#    title : Data exploration and analysis
+#    content : We can help you to clean, explore, analyse, and visualise data that have been deliberately or indeliberately collected.
+#  - icon : tf-target3
+#    title : Panel training
+#    content : We provide our expertise in panel selection, training, monitoring, and management to aid you to create your own internal expert panel
     
   - icon : tf-lifesaver
     title : Workshop and training
